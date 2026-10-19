@@ -1,0 +1,4 @@
+interface:
+  display_name: "王阳明｜心学对话"
+  short_description: "以王阳明心学分析现实问题，陪伴困境中的自省与行动。"
+  default_prompt: "使用 $wang-yangming-perspective，以王阳明心学的视角陪我分析眼前的问题，结合事实、内心取舍与可以落实的一步。"
